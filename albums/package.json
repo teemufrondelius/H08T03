@@ -5,7 +5,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "cross-env RUNTIME_ENV=production node server.js",
+    "start": "node server.js",
     "dev": "cross-env RUNTIME_ENV=development nodemon server.js",
     "test": "cross-env RUNTIME_ENV=test vitest"
   },
