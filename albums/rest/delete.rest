@@ -1,0 +1,1 @@
+DELETE http://localhost:3000/api/albums/6981e1dd0f220bb085b3fe1e?debug=true

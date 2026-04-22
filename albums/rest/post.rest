@@ -1,0 +1,10 @@
+POST http://localhost:3000/api/albums/
+Content-Type: application/json
+
+{
+    "artist": "Toto",
+    "title": "Test2",
+    "year": 1982,
+    "genre": "Pop",
+    "tracks": 10
+}

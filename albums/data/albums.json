@@ -1,0 +1,28 @@
+{
+  "albums": [
+    {
+      "id": 2,
+      "artist": "Toto",
+      "title": "Toto tesi33333",
+      "year": 1982,
+      "genre": "Pop",
+      "tracks": 10
+    },
+    {
+      "id": 3,
+      "artist": "Toto",
+      "title": "Toto IV",
+      "year": 1982,
+      "genre": "Pop",
+      "tracks": 10
+    },
+    {
+      "id": 5,
+      "artist": "Toto",
+      "title": "Toto IV",
+      "year": 1982,
+      "genre": "Pop",
+      "tracks": 10
+    }
+  ]
+}

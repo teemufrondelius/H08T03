@@ -1,0 +1,6 @@
+PUT http://localhost:3000/albums/2
+Content-Type: application/json
+
+{
+  "title" : "Toto tesi33333"
+}

@@ -1,0 +1,23 @@
+[
+  {
+    "artist": "Lauri Haav",
+    "title": "Aino",
+    "year": 2021,
+    "genre": "HipHop",
+    "tracks": 10
+  },
+  {
+    "artist": "Toto",
+    "title": "Toto IV",
+    "year": 1982,
+    "genre": "Pop",
+    "tracks": 10
+  },
+  {
+    "artist": "Jokrates",
+    "title": "Masterplan mixtape",
+    "year": 2025,
+    "genre": "HipHop",
+    "tracks": 5
+  }
+]
